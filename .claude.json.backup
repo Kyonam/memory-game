@@ -1,0 +1,56 @@
+{
+  "numStartups": 2,
+  "installMethod": "global",
+  "autoUpdates": true,
+  "tipsHistory": {
+    "new-user-warmup": 2
+  },
+  "cachedStatsigGates": {
+    "tengu_disable_bypass_permissions_mode": false
+  },
+  "firstStartTime": "2025-09-26T11:52:47.202Z",
+  "userID": "86fcf8195f0be79c1c2fb7248f7cdb9f6c515b28845525f7944d916164ff2b5f",
+  "projects": {
+    "C:\\Users\\ckyonam": {
+      "allowedTools": [],
+      "history": [
+        {
+          "display": "같은 모양을 맞추는 게임을 만들어줄래",
+          "pastedContents": {}
+        }
+      ],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 2,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    }
+  },
+  "oauthAccount": {
+    "accountUuid": "a981264b-d28d-47a5-a8b7-41d4760c4dcf",
+    "emailAddress": "ckyonam@gmail.com",
+    "organizationUuid": "bd88c5b3-5e83-4535-bf88-2cc5944c707f",
+    "displayName": "추교남",
+    "organizationRole": "admin",
+    "workspaceRole": null,
+    "organizationName": "ckyonam@gmail.com's Organization"
+  },
+  "claudeCodeFirstTokenDate": "2025-09-26T09:55:01.971726Z",
+  "hasCompletedOnboarding": true,
+  "lastOnboardingVersion": "1.0.126",
+  "hasOpusPlanDefault": false,
+  "subscriptionNoticeCount": 0,
+  "hasAvailableSubscription": false,
+  "s1mAccessCache": {
+    "bd88c5b3-5e83-4535-bf88-2cc5944c707f": {
+      "hasAccess": false,
+      "hasAccessNotAsDefault": false,
+      "timestamp": 1758971956855
+    }
+  },
+  "isQualifiedForDataSharing": false,
+  "fallbackAvailableWarningThreshold": 0.5
+}
